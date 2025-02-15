@@ -1,2 +1,5 @@
 FastAPI
 uvicorn
+itsdangerous
+jinja2
+python-multipart
